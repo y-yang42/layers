@@ -7,4 +7,4 @@
 - SimCLR loss
 
 ## Requirements
-PyTorch>=1.6.0
+- PyTorch>=1.6.0
