@@ -1,7 +1,7 @@
 # PyTorch implementation of locally connected 2d layer
 # which is similar to convolutional layer
 # except that the weights are not shared across different windows
-# Can only do zero padding s
+# Can only do zero padding
 
 import torch
 import torch.nn as nn
